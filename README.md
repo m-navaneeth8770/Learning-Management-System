@@ -26,19 +26,25 @@ A Java-based University Management System implementing core features like studen
 ### Home page
 ![User interface](screenshots/pic1.jpg)
 
-### admin Home page
+### Admin Home page
 ![admin interface](screenshots/pic3.jpg)
 
 ### Lecturer Home page
 ![Lecturer interface](screenshots/pic5.jpg)
 
-### admin access to user managment database
+### Admin access to user managment database
 ![database interface](screenshots/pic4.jpg)
 
-### categories
+### Categories
 ![](screenshots/pic2.jpg)
 
 
 
 ## How to Run
 1. Clone the repository:
+2. Import the project into your IDE (e.g., IntelliJ, Eclipse).
+3. Set up the MySQL database using the provided SQL scripts.
+4. Update database connection settings in the code as needed.
+5. Compile and run the Java application.
+
+
